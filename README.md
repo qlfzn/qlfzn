@@ -1,14 +1,12 @@
 # Hi there 👋 I'm Aqil
 
-🚀 Aspiring Software Engineer<br>
-💡 Interested in backend systems, cloud infrastructure, and financial technology<br>
-☁️ AWS Certified Cloud Practitioner<br>
+<em>Software Engineer | Backend, Cloud, Data Engineering | AWS Cloud Practitioner</em>
 
 ---
 
 ## 👨‍💻 About Me
 
-Software Engineer at heart, because I mostly get curious with how famous systems in the world work. I'm learning and building everyday.
+I often get curious with how famous systems in the world work. I'm learning and building everyday.
 
 I enjoy working on:
 - Backend services & APIs
@@ -16,7 +14,7 @@ I enjoy working on:
 - Cloud-native architectures
 
 Currently, I’m strengthening my fundamentals in:
-- Backend engineering (Go, TypeScript/Node.js)
+- Backend engineering (Go, Node.js)
 - System design & distributed systems
 - AWS & cloud infrastructure
 
@@ -25,31 +23,10 @@ Currently, I’m strengthening my fundamentals in:
 ## 🛠 Tech Stack
 
 **Languages**
-- Go
-- TypeScript / JavaScript
 - Python
+- Go
+- Javascript
 - SQL
-
-**Data & Cloud**
-- AWS (S3, EMR, Glue, Athena, Step Functions, MWAA)
-- Apache Spark (PySpark)
-- Apache Iceberg
-
----
-
-## 📊 Featured Projects
-
-- Digital Recipe Manager App
-- GTFS Data Pipeline 
-- CLI File Organizer in Go  
-
-*(More coming soon!)*
-
----
-
-## 📫 Let’s Connect
-
-- LinkedIn: [Linkedin](www.linkedin.com/in/aqil-fauzan)
 
 ---
 
