@@ -8,12 +8,7 @@
 
 I often get curious with how famous systems in the world work. I'm learning and building everyday.
 
-I enjoy working on:
-- Backend services & APIs
-- Data pipeline
-- Cloud-native architectures
-
-Currently, I’m strengthening my fundamentals in:
+Currently working on:
 - Backend engineering (Go, Node.js)
 - System design & distributed systems
 - AWS & cloud infrastructure
@@ -30,4 +25,4 @@ Currently, I’m strengthening my fundamentals in:
 
 ---
 
-⭐️ Always learning. Always building.
+Always learning. Always building.
