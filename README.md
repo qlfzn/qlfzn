@@ -9,7 +9,7 @@
 I often get curious with how famous systems in the world work. I'm learning and building everyday.
 
 Currently working on:
-- Backend engineering (Go, Node.js)
+- Backend engineering (Python, Go)
 - System design & distributed systems
 - AWS & cloud infrastructure
 
