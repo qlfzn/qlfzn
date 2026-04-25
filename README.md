@@ -1,28 +1,21 @@
-# Hi there 👋 I'm Aqil
+# 👋🏻 Hi, I'm Aqil
 
-<em>Software Engineer | Backend, Cloud, Data Engineering | AWS Cloud Practitioner</em>
+Software Engineer with experience in data engineering and applied ML.<br>
+I like understanding how things work, not just making them work.
 
----
+## Currently working on
+- Loan default prediction — classification, imbalance handling, model evaluation
+- Deepening ML and data engineering fundamentals
 
-## 👨‍💻 About Me
+## Experience
+- Data Engineer Intern @ Deloitte AI & Data — Python pipelines, PySpark, 
+  Airflow, AWS (S3, EMR)
+- Built Flowcessor — a document processing system with LLM integration, 
+  actively used by a real client
 
-I often get curious with how famous systems in the world work. I'm learning and building everyday.
+## Tech Stack
+Python | Go | SQL | PySpark | FastAPI | AWS | Docker | PostgreSQL | 
+scikit-learn | Airflow
 
-Currently working on:
-- Backend engineering (Python, Go)
-- System design & distributed systems
-- AWS & cloud infrastructure
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-- Python
-- Go
-- Javascript
-- SQL
-
----
-
-Always learning. Always building.
+## Interests
+Data engineering · Machine learning · Backend systems · Open source
