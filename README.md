@@ -5,7 +5,7 @@ I like understanding how things work, not just making them work.
 
 ## Currently working on
 - Deepening ML and data engineering fundamentals
-- Exploring Agentic AI
+- Exploring LLM & RAG Development, Agentic AI
 
 ## Experience
 - Data Engineer Intern - ETL, PySpark, Data Lake, Airflow, AWS (S3, EMR, Glue)
